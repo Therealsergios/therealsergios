@@ -34,12 +34,12 @@
 
 ### My stat
 <div id="stat" align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark" 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therealsergios&theme=github_dark" 
          style="width: 600px; max-width: 100%;"/>
     <div style="display: flex; gap: 10px; justify-content: center;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark" 
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=therealsergios&theme=github_dark" 
              style="width: 295px; max-width: 100%;"/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=github_dark&utcOffset=8" 
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=therealsergios&theme=github_dark&utcOffset=8" 
              style="width: 295px; max-width: 100%;"/>
     </div>
 
