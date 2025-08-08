@@ -4,15 +4,11 @@
 </div>
 
 <div id="socials" align="center">
-    <a href="https://t.me/therealsergios">
-        <img scr="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-    <a href="https://www.instagram.com/therealsergios">
-        <img scr="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="https://wa.me/77778908222">
-        <img scr="https://img.shields.io/badge/InstagramWhatsApp-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-    </a>
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/therealsergios)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/therealsergios)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/77778908222)
+
 </div>
         
 ### About me
@@ -36,9 +32,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="PSM" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="MDB" width="40" height="40"/>&nbsp;
 
-### My stat
-<div id="stat" align="center">
-    <img scr="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default"/>
-    <img scr="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8"/>
-    <img scr="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default"/>
-</div>
