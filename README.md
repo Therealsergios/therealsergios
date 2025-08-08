@@ -34,8 +34,8 @@
 
 ### My stat
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therealsergios&theme=default"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therealsergios&theme=github_dark"/>
     <br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=therealsergios&theme=default"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=therealsergios&theme=default&utcOffset=8"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=therealsergios&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=therealsergios&theme=github_dark&utcOffset=8"/>
 </div>
