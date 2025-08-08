@@ -15,7 +15,7 @@
 
 - :computer: I’m currently working on web application architecture design
 - 🌱 I’m currently learning data analys
-- 🤔 I’m interested in exploring various API untegrations
+- 🤔 I’m interested in exploring various API integrations
 - :1234: I passionate about working with databases
 - :page_facing_up: My [CV](https://spb.hh.ru/resume/91966634ff0f20bcd30039ed1f363845415979)
 - 📫 Reach me by [email](polnumber@gmail.com)
