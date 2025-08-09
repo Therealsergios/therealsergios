@@ -121,4 +121,89 @@ Master's degree in Peter the Great Saint Petersburg Politechnical University
 - Institute of Energy and Transport Systems
 - Specialization: Nuclear Energy and Thermal Physics
 
-### :page_with_curl: Certificates
+### :page_with_curl: Courses
+
+<table style="width:100%; border-collapse:collapse; border:none; table-layout:fixed;">
+  <colgroup>
+    <col style="width:44%;">
+    <col style="width:56%;">
+  </colgroup>
+
+  <tr style="border:none;">
+    <td style="padding:6px 8px; vertical-align:middle; border:none; word-wrap:break-word;">
+      <a href="https://lab.karpov.courses/learning/152/">SQL KarpovCourses</a>
+    </td>
+    <td style="padding:6px 0; vertical-align:middle; border:none;">
+      <div style="background:#ddd; border-radius:6px; width:100%; height:20px; overflow:hidden;">
+        <div style="width:100%; height:100%; background:#4caf50; display:flex; align-items:center; justify-content:center; font-weight:600; color:#fff;">
+          100%
+        </div>
+      </div>
+    </td>
+  </tr>
+
+  <tr style="border:none;">
+    <td style="padding:6px 8px; vertical-align:middle; border:none; word-wrap:break-word;">
+      <a href="https://lab.karpov.courses/learning/760/">Systems Analyst KarpovCourses</a>
+    </td>
+    <td style="padding:6px 0; vertical-align:middle; border:none;">
+      <div style="background:#ddd; border-radius:6px; width:100%; height:20px; overflow:hidden;">
+        <div style="width:100%; height:100%; background:#4caf50; display:flex; align-items:center; justify-content:center; font-weight:600; color:#fff;">
+          100%
+        </div>
+      </div>
+    </td>
+  </tr>
+
+  <tr style="border:none;">
+    <td style="padding:6px 8px; vertical-align:middle; border:none; word-wrap:break-word;">
+      <a href="https://skillbox.ru/course/auth/?state=088964C95">SQL Skillbox</a>
+    </td>
+    <td style="padding:6px 0; vertical-align:middle; border:none;">
+      <div style="background:#ddd; border-radius:6px; width:100%; height:20px; overflow:hidden;">
+        <div style="width:100%; height:100%; background:#4caf50; display:flex; align-items:center; justify-content:center; font-weight:600; color:#fff;">
+          100%
+        </div>
+      </div>
+    </td>
+  </tr>
+
+  <tr style="border:none;">
+    <td style="padding:6px 8px; vertical-align:middle; border:none; word-wrap:break-word;">
+      <a href="https://stepik.org/course/184659/promo">SOAP API Stepik</a>
+    </td>
+    <td style="padding:6px 0; vertical-align:middle; border:none;">
+      <div style="background:#ddd; border-radius:6px; width:100%; height:20px; overflow:hidden;">
+        <div style="width:60%; height:100%; background:#ffeb3b; display:flex; align-items:center; justify-content:center; font-weight:700; color:#000;">
+          60%
+        </div>
+      </div>
+    </td>
+  </tr>
+
+  <tr style="border:none;">
+    <td style="padding:6px 8px; vertical-align:middle; border:none; word-wrap:break-word;">
+      <a href="https://stepik.org/course/216201/promo">REST API Stepik</a>
+    </td>
+    <td style="padding:6px 0; vertical-align:middle; border:none;">
+      <div style="background:#ddd; border-radius:6px; width:100%; height:20px; overflow:hidden;">
+        <div style="width:60%; height:100%; background:#ffeb3b; display:flex; align-items:center; justify-content:center; font-weight:700; color:#000;">
+          60%
+        </div>
+      </div>
+    </td>
+  </tr>
+
+  <tr style="border:none;">
+    <td style="padding:6px 8px; vertical-align:middle; border:none; word-wrap:break-word;">
+      <a href="https://stepik.org/course/67/promo">Python Stepik</a>
+    </td>
+    <td style="padding:6px 0; vertical-align:middle; border:none;">
+      <div style="background:#ddd; border-radius:6px; width:100%; height:20px; overflow:hidden;">
+        <div style="width:40%; height:100%; background:#ff9800; display:flex; align-items:center; justify-content:center; font-weight:600; color:#fff;">
+          40%
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
