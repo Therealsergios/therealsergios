@@ -123,87 +123,56 @@ Master's degree in Peter the Great Saint Petersburg Politechnical University
 
 ### :page_with_curl: Courses
 
-<table style="width:100%; border-collapse:collapse; border:none; table-layout:fixed;">
-  <colgroup>
-    <col style="width:44%;">
-    <col style="width:56%;">
-  </colgroup>
+<svg width="600" height="20" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="15" font-size="12" fill="#0366d6">
+    <a href="https://lab.karpov.courses/learning/152/">SQL KarpovCourses</a>
+  </text>
+  <rect x="250" y="0" width="340" height="18" fill="#ddd" rx="9"></rect>
+  <rect x="250" y="0" width="340" height="18" fill="#4caf50" rx="9"></rect>
+  <text x="420" y="13" text-anchor="middle" font-size="12" fill="#fff">100%</text>
+</svg>
 
-  <tr style="border:none;">
-    <td style="padding:6px 8px; vertical-align:middle; border:none; word-wrap:break-word;">
-      <a href="https://lab.karpov.courses/learning/152/">SQL KarpovCourses</a>
-    </td>
-    <td style="padding:6px 0; vertical-align:middle; border:none;">
-      <div style="background:#ddd; border-radius:6px; width:100%; height:20px; overflow:hidden;">
-        <div style="width:100%; height:100%; background:#4caf50; display:flex; align-items:center; justify-content:center; font-weight:600; color:#fff;">
-          100%
-        </div>
-      </div>
-    </td>
-  </tr>
+<svg width="600" height="20" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="15" font-size="12" fill="#0366d6">
+    <a href="https://lab.karpov.courses/learning/760/">Systems Analyst KarpovCourses</a>
+  </text>
+  <rect x="250" y="0" width="340" height="18" fill="#ddd" rx="9"></rect>
+  <rect x="250" y="0" width="340" height="18" fill="#4caf50" rx="9"></rect>
+  <text x="420" y="13" text-anchor="middle" font-size="12" fill="#fff">100%</text>
+</svg>
 
-  <tr style="border:none;">
-    <td style="padding:6px 8px; vertical-align:middle; border:none; word-wrap:break-word;">
-      <a href="https://lab.karpov.courses/learning/760/">Systems Analyst KarpovCourses</a>
-    </td>
-    <td style="padding:6px 0; vertical-align:middle; border:none;">
-      <div style="background:#ddd; border-radius:6px; width:100%; height:20px; overflow:hidden;">
-        <div style="width:100%; height:100%; background:#4caf50; display:flex; align-items:center; justify-content:center; font-weight:600; color:#fff;">
-          100%
-        </div>
-      </div>
-    </td>
-  </tr>
+<svg width="600" height="20" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="15" font-size="12" fill="#0366d6">
+    <a href="https://skillbox.ru/course/auth/?state=088964C95">SQL Skillbox</a>
+  </text>
+  <rect x="250" y="0" width="340" height="18" fill="#ddd" rx="9"></rect>
+  <rect x="250" y="0" width="340" height="18" fill="#4caf50" rx="9"></rect>
+  <text x="420" y="13" text-anchor="middle" font-size="12" fill="#fff">100%</text>
+</svg>
 
-  <tr style="border:none;">
-    <td style="padding:6px 8px; vertical-align:middle; border:none; word-wrap:break-word;">
-      <a href="https://skillbox.ru/course/auth/?state=088964C95">SQL Skillbox</a>
-    </td>
-    <td style="padding:6px 0; vertical-align:middle; border:none;">
-      <div style="background:#ddd; border-radius:6px; width:100%; height:20px; overflow:hidden;">
-        <div style="width:100%; height:100%; background:#4caf50; display:flex; align-items:center; justify-content:center; font-weight:600; color:#fff;">
-          100%
-        </div>
-      </div>
-    </td>
-  </tr>
+<svg width="600" height="20" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="15" font-size="12" fill="#0366d6">
+    <a href="https://stepik.org/course/184659/promo">SOAP API Stepik</a>
+  </text>
+  <rect x="250" y="0" width="340" height="18" fill="#ddd" rx="9"></rect>
+  <rect x="250" y="0" width="204" height="18" fill="#ffeb3b" rx="9"></rect>
+  <text x="420" y="13" text-anchor="middle" font-size="12" fill="#000">60%</text>
+</svg>
 
-  <tr style="border:none;">
-    <td style="padding:6px 8px; vertical-align:middle; border:none; word-wrap:break-word;">
-      <a href="https://stepik.org/course/184659/promo">SOAP API Stepik</a>
-    </td>
-    <td style="padding:6px 0; vertical-align:middle; border:none;">
-      <div style="background:#ddd; border-radius:6px; width:100%; height:20px; overflow:hidden;">
-        <div style="width:60%; height:100%; background:#ffeb3b; display:flex; align-items:center; justify-content:center; font-weight:700; color:#000;">
-          60%
-        </div>
-      </div>
-    </td>
-  </tr>
+<svg width="600" height="20" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="15" font-size="12" fill="#0366d6">
+    <a href="https://stepik.org/course/216201/promo">REST API Stepik</a>
+  </text>
+  <rect x="250" y="0" width="340" height="18" fill="#ddd" rx="9"></rect>
+  <rect x="250" y="0" width="204" height="18" fill="#ffeb3b" rx="9"></rect>
+  <text x="420" y="13" text-anchor="middle" font-size="12" fill="#000">60%</text>
+</svg>
 
-  <tr style="border:none;">
-    <td style="padding:6px 8px; vertical-align:middle; border:none; word-wrap:break-word;">
-      <a href="https://stepik.org/course/216201/promo">REST API Stepik</a>
-    </td>
-    <td style="padding:6px 0; vertical-align:middle; border:none;">
-      <div style="background:#ddd; border-radius:6px; width:100%; height:20px; overflow:hidden;">
-        <div style="width:60%; height:100%; background:#ffeb3b; display:flex; align-items:center; justify-content:center; font-weight:700; color:#000;">
-          60%
-        </div>
-      </div>
-    </td>
-  </tr>
-
-  <tr style="border:none;">
-    <td style="padding:6px 8px; vertical-align:middle; border:none; word-wrap:break-word;">
-      <a href="https://stepik.org/course/67/promo">Python Stepik</a>
-    </td>
-    <td style="padding:6px 0; vertical-align:middle; border:none;">
-      <div style="background:#ddd; border-radius:6px; width:100%; height:20px; overflow:hidden;">
-        <div style="width:40%; height:100%; background:#ff9800; display:flex; align-items:center; justify-content:center; font-weight:600; color:#fff;">
-          40%
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
+<svg width="600" height="20" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="15" font-size="12" fill="#0366d6">
+    <a href="https://stepik.org/course/67/promo">Python Stepik</a>
+  </text>
+  <rect x="250" y="0" width="340" height="18" fill="#ddd" rx="9"></rect>
+  <rect x="250" y="0" width="136" height="18" fill="#ff9800" rx="9"></rect>
+  <text x="420" y="13" text-anchor="middle" font-size="12" fill="#000">40%</text>
+</svg>
