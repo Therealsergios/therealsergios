@@ -62,59 +62,15 @@
 
 [Case 4]() - API specificaton :spiral_notepad:
 
-### :office: Work experience
 
 <html lang="ru">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Work experience</title>
-<style>
-  :root{
-    --bg:#0f1115;
-    --panel:#141722;
-    --border:#2a2f3a;
-    --text:#e6e9f0;
-    --muted:#9aa3b2;
-    --accent:#6aa3ff;
-  }
-  html,body{margin:0;background:var(--bg);color:var(--text);font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial;}
-  .page{max-width:980px;margin:40px auto;padding:0 20px;}
-  h2{display:flex;align-items:center;gap:.5rem;margin:0 0 14px}
-  h2 .emoji{font-size:1.25em}
-  .table-wrap{background:var(--panel);border:1px solid var(--border);border-radius:10px;overflow:hidden;}
-  table{width:100%;border-collapse:separate;border-spacing:0}
-  thead th{
-    text-align:left;font-weight:600;color:var(--muted);
-    padding:14px 16px;background:linear-gradient(#171b26,#141722);
-    border-bottom:1px solid var(--border);
-    font-size:.95rem;letter-spacing:.2px;
-  }
-  tbody td{padding:14px 16px;border-bottom:1px solid var(--border);}
-  tbody tr:last-child td{border-bottom:none;}
-  tbody tr:hover{background:#171b26;}
-  @media (max-width:720px){
-    thead{display:none;}
-    table, tbody, tr, td{display:block;width:100%}
-    .row{border-bottom:1px solid var(--border)}
-    tbody td{padding:10px 16px}
-    tbody td::before{
-      content:attr(data-label);
-      display:block;
-      font-size:.8rem;
-      color:var(--muted);
-      margin-bottom:4px;
-      text-transform:uppercase;
-      letter-spacing:.3px;
-    }
-  }
-  a{color:var(--accent);text-decoration:none}
-  a:hover{text-decoration:underline}
-</style>
 </head>
 <body>
   <div class="page">
-    <h2><span class="emoji">🏅</span>Work experience</h2>
+    <h3><span class="emoji">🏅</span>Work experience</h2>
     <div class="table-wrap">
       <table>
         <thead>
