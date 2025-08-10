@@ -56,11 +56,20 @@
 - [rest api](https://github.com/Therealsergios/Case1-Information-Model/tree/main/rest%20api)
 - [user test cases](https://github.com/Therealsergios/Case1-Information-Model/tree/main/user%20test)
 
-[Case 2]() - reporting forms :clipboard:
+[Case 2](https://github.com/Therealsergios/Case2-reporting-form) - reporting forms :clipboard:
+- [data](https://github.com/Therealsergios/Case2-reporting-form/tree/main/data)
+- [bpmn 2.0](https://github.com/Therealsergios/Case2-reporting-form/tree/main/bpmn)
+- [uml sequence](https://github.com/Therealsergios/Case2-reporting-form/tree/main/uml)
+- [pattern](https://github.com/Therealsergios/Case2-reporting-form/tree/main/pattern%20FR)
 
-[Case 3]() - Data and DataBases :floppy_disk:
+[Case 3](https://github.com/Therealsergios/database-requests) - Data and DataBases :floppy_disk:
+- [informix](https://github.com/Therealsergios/database-requests/tree/main/informix)
+- [postgre](https://github.com/Therealsergios/database-requests/tree/main/postgre)
+- [mongodb](https://github.com/Therealsergios/database-requests/tree/main/mongo)
 
-[Case 4]() - API specificaton :spiral_notepad:
+[Case 4](https://github.com/Therealsergios/API-specifications) - API specificaton :spiral_notepad:
+- [REST API](https://github.com/Therealsergios/API-specifications/tree/main/rest)
+- [SOAP API](https://github.com/Therealsergios/API-specifications/tree/main/soap)
 
 
 <html lang="ru">
