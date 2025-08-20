@@ -71,7 +71,12 @@
 - [REST API](https://github.com/Therealsergios/API-specifications/tree/main/rest)
 - [SOAP API](https://github.com/Therealsergios/API-specifications/tree/main/soap)
 
-
+[Case 5](https://github.com/Therealsergios/DashBoards) - DashBoards :chart_with_upwards_trend:
+- [SQL Requests. Activities](https://github.com/Therealsergios/DashBoards/tree/main/Scripts%20User%20and%20Couriers)
+- [SQL Requests. Revenue](https://github.com/Therealsergios/DashBoards/tree/main/Scripts%20Revenue)
+- [SQL Requests. Retention](https://github.com/Therealsergios/DashBoards/tree/main/Scripts%20Retention)
+- [DashBoards](https://github.com/Therealsergios/DashBoards/tree/main/Dashboards)
+---
 <html lang="ru">
 <head>
 <meta charset="utf-8" />
