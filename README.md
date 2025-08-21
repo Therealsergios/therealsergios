@@ -65,6 +65,7 @@
 [Case 3](https://github.com/Therealsergios/database-requests) - Data and DataBases :floppy_disk:
 - [informix](https://github.com/Therealsergios/database-requests/tree/main/informix)
 - [postgre](https://github.com/Therealsergios/database-requests/tree/main/postgre)
+- [normalization](https://github.com/Therealsergios/database-requests/blob/main/normalization%203NF/description.md)
 - [mongodb](https://github.com/Therealsergios/database-requests/tree/main/mongo)
 
 [Case 4](https://github.com/Therealsergios/API-specifications) - API specificaton :spiral_notepad:
