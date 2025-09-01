@@ -141,6 +141,7 @@ Master's degree in Peter the Great Saint Petersburg Politechnical University
 - [SQL KarpovCourses](https://lab.karpov.courses/learning/152/) 🟩🟩🟩🟩🟩 100%
 - [Systems Analyst KarpovCourses](https://lab.karpov.courses/learning/760/) 🟩🟩🟩🟩🟩 100%
 - [SQL Skillbox](https://skillbox.ru/course/auth/?state=088964C95) 🟩🟩🟩🟩🟩 100%
+- [Regulation of business processes](https://uprav.ru/kursy-po-kachestvu/spetsialist-po-reglamentatsii-biznes-protsessov-online/) 🟩🟩🟩🟩🟩 100%
 - [SOAP API Stepik](https://stepik.org/course/184659/promo) 🟨🟨🟨⬜⬜ 60%
 - [REST API Stepik](https://stepik.org/course/216201/promo) 🟨🟨🟨⬜⬜ 60%
 - [Python Stepik](https://stepik.org/course/67/promo) 🟧🟧⬜⬜⬜ 40%
