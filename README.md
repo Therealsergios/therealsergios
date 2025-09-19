@@ -102,7 +102,7 @@
         </thead>
         <tbody>
           <tr class="row">
-            <td data-label="Job Position">Project Manager</td>
+            <td data-label="Job Position">Analyst FullStack</td>
             <td data-label="Company">Nauka</td>
             <td data-label="Department \ Division">Software developing</td>
             <td data-label="Work Period">03.2024 – present</td>
@@ -114,7 +114,7 @@
             <td data-label="Work Period">07.2022 – 03.2024</td>
           </tr>
           <tr class="row">
-            <td data-label="Job Position">Junior system Analyst</td>
+            <td data-label="Job Position">Analyst</td>
             <td data-label="Company">Nauka</td>
             <td data-label="Department \ Division">Software developing</td>
             <td data-label="Work Period">01.2021 – 06.2022</td>
