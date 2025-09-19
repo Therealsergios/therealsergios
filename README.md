@@ -77,6 +77,10 @@
 - [SQL Requests. Revenue](https://github.com/Therealsergios/DashBoards/tree/main/Scripts%20Revenue)
 - [SQL Requests. Retention](https://github.com/Therealsergios/DashBoards/tree/main/Scripts%20Retention)
 - [DashBoards](https://github.com/Therealsergios/DashBoards/tree/main/Dashboards)
+
+[Case 6](https://github.com/Therealsergios/Technical_Specifications) - SOWs and Technical Specifications
+- [Technical Specification. Systems Integraton](https://github.com/Therealsergios/Technical_Specifications/tree/main/TechnicalSpeci)
+
 ---
 <html lang="ru">
 <head>
